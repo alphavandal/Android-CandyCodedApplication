@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="R58M46YLK4R" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_25" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -54,7 +54,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -162,32 +162,44 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1601301452922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601301452923</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1811" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601298829532">
       <screen x="1280" y="0" width="1366" height="728" />
     </state>
     <state x="1811" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601298829532" />
-    <state x="1467" y="0" key="CommitChangelistDialog2" timestamp="1601301324368">
+    <state x="1467" y="0" key="CommitChangelistDialog2" timestamp="1601301441283">
       <screen x="1280" y="0" width="1366" height="728" />
     </state>
-    <state x="1467" y="0" key="CommitChangelistDialog2/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601301324368" />
-    <state width="1323" height="354" key="GridCell.Tab.0.bottom" timestamp="1601301325536">
+    <state x="1467" y="0" key="CommitChangelistDialog2/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601301441283" />
+    <state width="1323" height="354" key="GridCell.Tab.0.bottom" timestamp="1601302220992">
       <screen x="1280" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="354" key="GridCell.Tab.0.bottom/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601301325536" />
-    <state width="1323" height="354" key="GridCell.Tab.0.center" timestamp="1601301325535">
+    <state width="1323" height="354" key="GridCell.Tab.0.bottom/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601302220992" />
+    <state width="1323" height="354" key="GridCell.Tab.0.center" timestamp="1601302220991">
       <screen x="1280" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="354" key="GridCell.Tab.0.center/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601301325535" />
-    <state width="1323" height="354" key="GridCell.Tab.0.left" timestamp="1601301325535">
+    <state width="1323" height="354" key="GridCell.Tab.0.center/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601302220991" />
+    <state width="1323" height="354" key="GridCell.Tab.0.left" timestamp="1601302220991">
       <screen x="1280" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="354" key="GridCell.Tab.0.left/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601301325535" />
-    <state width="1323" height="354" key="GridCell.Tab.0.right" timestamp="1601301325536">
+    <state width="1323" height="354" key="GridCell.Tab.0.left/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601302220991" />
+    <state width="1323" height="354" key="GridCell.Tab.0.right" timestamp="1601302220991">
       <screen x="1280" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="354" key="GridCell.Tab.0.right/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601301325536" />
+    <state width="1323" height="354" key="GridCell.Tab.0.right/1280.0.1366.728/0.0.1280.680@1280.0.1366.728" timestamp="1601302220991" />
   </component>
 </project>
